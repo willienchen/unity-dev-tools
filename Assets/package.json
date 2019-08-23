@@ -1,0 +1,11 @@
+{
+    "name": "willien-dev-tools",
+    "displayName": "Willien Develop Tools",
+    "version": "0.0.1",
+    "unity": "2019.1",
+    "description": "another develop tool for Unity",
+    "keywords": [
+        "unity"
+    ],
+    "category": "Instrument"
+}
